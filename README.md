@@ -12,3 +12,5 @@
 - rebase
 
 Remote README update
+
+**git log**
